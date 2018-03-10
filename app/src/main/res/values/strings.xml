@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">展示</string>
+    <string name="item_app_string01">What is Hadoop</string>
+    <string name="item_app_string02">Hadoop 大数据 架构 北美音 入门基础 新手学习</string>
+    <string name="item_app_string03">01\'20\" | 1级难度 | 1.2万收藏</string>
+    <string name="activity_main_string01">大家都在搜speak</string>
+    <string name="activity_main_string02">最新</string>
+    <string name="activity_main_string03">最热</string>
+    <string name="activity_main_string04">Hadoop</string>
+    <string name="activity_main_string05">全部</string>
+    <string name="activity_main_string06">语言</string>
+    <string name="activity_main_string07">云计算</string>
+    <string name="activity_main_string08">大数据</string>
+    <string name="activity_main_string09">移动互联</string>
+
+    <string name="activity_main_string10">热门搜索</string>
+    <string name="activity_main_string11">历史搜索</string>
+    <string name="share">分享</string>
+    <string name="tb01">难度(2级)</string>
+    <string name="tb02">字幕(20)</string>
+    <string name="tb03">评论(999+)</string>
+    <string name="llzj">练练这段</string>
+    <string name="like">我喜欢</string>
+    <string name="keep">已收藏</string>
+    <string name="send_comment">发表评论</string>
+</resources>
